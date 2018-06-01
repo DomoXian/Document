@@ -25,6 +25,9 @@ Java的JVM内存可划分为五个区；方法区、java堆、java虚拟机栈�
 栈空间时)，则抛出 OutOfMemoryError 异常
 ```
 ## 本地方法栈
+```text
+    本地方法栈
+```
 
 ## java堆
 
